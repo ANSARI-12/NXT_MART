@@ -64,7 +64,7 @@ const Header = props => {
             <li className="li-nav-lg">
               <button
                 type="button"
-                className="btn-header abc icons-sm"
+                className="btn-header abc"
                 onClick={onLogoutBtn}
                 data-testid="logout-button"
                 aria-label="logout-button"
